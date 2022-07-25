@@ -18,7 +18,7 @@ import SuccessfullPage from "./components/Checkout/SuccessfullPage";
     <App>
     <Routes>
     <Route path="/" element={ <HomePageComponent/> } />
-          <Route path="/venia" element={ <HomePageComponent/> } />
+          <Route path="/venia-shoppingcart" element={ <HomePageComponent/> } />
           <Route path="/Adobe-capstone" element={ <HomePageComponent/> } />
           <Route path="/Home" element={ <HomePageComponent/> } />
           <Route path="/Products" element={ <ProductsPageComponent/>} />
